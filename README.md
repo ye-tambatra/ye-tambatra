@@ -11,9 +11,10 @@ Take a closer look at my repositories to explore my projects and contributions. 
 A web application built with Next.js that revolutionizes the way you find and save your favorite song lyrics. 
       
 🎵 Features:
-      - Search: Quickly search for lyricssong title..
-      - Lyrics Display: View the lyrics of the selected song in a clean and user-friendly interface.
-      - Favorites Page: Save your favorite lyrics and easily access them anytime from your personalized favorites page.
+- Search: Quickly search for lyricssong title..
+- Lyrics Display: View the lyrics of the selected song in a clean and user-friendly interface.
+- Favorites Page: Save your favorite lyrics and easily access them anytime from your personalized favorites page.
+
 💡 Technologies Used:
       Next.js, React, Node.js, Express, Typescript, Bootstrap.
 🔗 Link:
