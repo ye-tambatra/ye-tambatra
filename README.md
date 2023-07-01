@@ -1,7 +1,6 @@
 
 Hi, I'm Tambatra.
-👋 Welcome to my GitHub profile! 
-Actions speak louder than words. Through my projects, I strive to demonstrate my skills, creativity, and problem-solving abilities.
+👋 Welcome to my GitHub profile! Through my projects, I strive to demonstrate my skills, creativity, and problem-solving abilities.
 
 # 💼 Featured Projects:
 Take a closer look at my repositories to explore my projects and contributions. Here are some of my featured works that showcase my capabilities:
