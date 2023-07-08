@@ -5,7 +5,7 @@ Hi, I'm Tambatra.
 # 💼 Featured Projects:
 Take a closer look at my repositories to explore my projects and contributions. Here are some of my featured works that showcase my capabilities:
 
-## [Lyrics Finder Application](https://lyrics-finder-tambatra.vercel.app/)
+## [🎵 Lyrics Finder Application](https://lyrics-finder-tambatra.vercel.app/)
       
       A web application built with Next.js that revolutionizes the way you find and save your favorite song lyrics. 
             
@@ -15,7 +15,7 @@ Take a closer look at my repositories to explore my projects and contributions. 
       - Favorites Page: Save your favorite lyrics and easily access them anytime from your personalized favorites page.
       
       💡 Technologies Used:
-            React, Node.js, Express, Typescript, Bootstrap.
+            React, Node.js, Express, Typescript, Tailwind.
       
       🎶 Let the music and lyrics inspire you! Happy exploring and feel free to provide feedback or contribute to the project.
       
