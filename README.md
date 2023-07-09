@@ -7,7 +7,7 @@ Take a closer look at my repositories to explore my projects and contributions. 
 
 ## [🎵 Lyrics Finder Application](https://lyrics-finder-tambatra.vercel.app/)
       
-      A web application built with Next.js that revolutionizes the way you find and save your favorite song lyrics. 
+      A web application built with React that revolutionizes the way you find and save your favorite song lyrics. 
             
       🎵 Features:
       - Search: Quickly search for lyricssong title..
